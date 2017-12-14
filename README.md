@@ -2,6 +2,8 @@
 
 在electron-quick-start的基础上添加了 webpack React electron-builder
 
+<img src="https://segmentfault.com/img/bV0hZ2?w=1600&h=1200" width="700px">
+
 **Clone and run for a quick way to see Electron in action.**
 
 This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/tutorial/quick-start) within the Electron documentation.
