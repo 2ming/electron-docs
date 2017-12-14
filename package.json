@@ -11,15 +11,16 @@
     "build-win": "npm run build && build --win --x64",
     "release": "run-p release:*"
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/2ming/electron-docs",
   "keywords": [
     "Electron",
     "quick",
     "start",
     "tutorial",
-    "React"
+    "React",
+    "webpack"
   ],
-  "author": "GitHub",
+  "author": "2ming",
   "license": "CC0-1.0",
   "devDependencies": {
     "babel-loader": "^7.1.2",
